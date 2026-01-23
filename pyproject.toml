@@ -1,0 +1,10 @@
+[project]
+name = "merino-vss"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "faiss-cpu>=1.13.2",
+    "sentence-transformers>=5.2.0",
+]
