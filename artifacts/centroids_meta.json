@@ -1,0 +1,20 @@
+{
+  "model_name": "all-MiniLM-L6-v2",
+  "built_at_unix": 1770229476.101683,
+  "dim": 384,
+  "index_kind": "centroids",
+  "faiss_index_type": "IndexFlatIP",
+  "normalized": true,
+  "texts": [
+    "centroid:finance (8 examples)",
+    "centroid:flights (8 examples)",
+    "centroid:local (16 examples)",
+    "centroid:sports (8 examples)"
+  ],
+  "intents": [
+    "finance",
+    "flights",
+    "local",
+    "sports"
+  ]
+}

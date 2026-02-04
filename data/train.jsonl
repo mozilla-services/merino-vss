@@ -1,0 +1,40 @@
+{"text":"aapl stock price","intent":"finance"}
+{"text":"msft stock","intent":"finance"}
+{"text":"tsla quote","intent":"finance"}
+{"text":"nvda earnings","intent":"finance"}
+{"text":"google stock price","intent":"finance"}
+{"text":"amzn stock","intent":"finance"}
+{"text":"bitcoin price","intent":"finance"}
+{"text":"eth crypto","intent":"finance"}
+{"text":"delta 215 flight status","intent":"flights"}
+{"text":"aa100 flight status","intent":"flights"}
+{"text":"flights from sfo to jfk","intent":"flights"}
+{"text":"lax to sea flights","intent":"flights"}
+{"text":"united flight 328 status","intent":"flights"}
+{"text":"cheap flights to paris","intent":"flights"}
+{"text":"flights to london","intent":"flights"}
+{"text":"southwest flight status","intent":"flights"}
+{"text":"nba schedule","intent":"sports"}
+{"text":"lakers score","intent":"sports"}
+{"text":"yankees game score","intent":"sports"}
+{"text":"arsenal vs chelsea","intent":"sports"}
+{"text":"nfl standings","intent":"sports"}
+{"text":"warriors game tonight","intent":"sports"}
+{"text":"world cup schedule","intent":"sports"}
+{"text":"premier league table","intent":"sports"}
+{"text":"sushi near me","intent":"local"}
+{"text":"coffee shop nearby","intent":"local"}
+{"text":"restaurant near me","intent":"local"}
+{"text":"gas station near me","intent":"local"}
+{"text":"pizza near me","intent":"local"}
+{"text":"plumber near me","intent":"local"}
+{"text":"dentist near me","intent":"local"}
+{"text":"pharmacy nearby","intent":"local"}
+{"text":"atm near me","intent":"local"}
+{"text":"mexican food near me","intent":"local"}
+{"text":"best restaurants nearby","intent":"local"}
+{"text":"bars near me","intent":"local"}
+{"text":"coffee near me","intent":"local"}
+{"text":"thai food nearby","intent":"local"}
+{"text":"electrician near me","intent":"local"}
+{"text":"hair salon near me","intent":"local"}

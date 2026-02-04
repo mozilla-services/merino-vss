@@ -1,0 +1,24 @@
+{"text":"aapl price","intent":"finance"}
+{"text":"what is the nvda stock price","intent":"finance"}
+{"text":"tesla stock","intent":"finance"}
+{"text":"btc price today","intent":"finance"}
+{"text":"dl 215 status","intent":"flights"}
+{"text":"flight status aa100","intent":"flights"}
+{"text":"cheap flights to tokyo","intent":"flights"}
+{"text":"jetblue flight 123","intent":"flights"}
+{"text":"nba standings","intent":"sports"}
+{"text":"warriors score","intent":"sports"}
+{"text":"manchester united game","intent":"sports"}
+{"text":"mlb scores today","intent":"sports"}
+{"text":"tacos near me","intent":"local"}
+{"text":"best coffee nearby","intent":"local"}
+{"text":"italian restaurant near me","intent":"local"}
+{"text":"mechanic near me","intent":"local"}
+{"text":"ramen near me","intent":"local"}
+{"text":"burgers nearby","intent":"local"}
+{"text":"how to boil eggs","intent":"none"}
+{"text":"amazon","intent":"none"}
+{"text":"weather tomorrow","intent":"none"}
+{"text":"python list sort","intent":"none"}
+{"text":"what is machine learning","intent":"none"}
+{"text":"facebook","intent":"none"}
